@@ -1,17 +1,71 @@
-Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Daivisson Da Silva Oliveira
-====================================================================================================================================================
+# 👋 Olá! Eu sou Daivisson Da Silva Oliveira
 
-👨 💻 Estudante de Técnico em Informática
+🎓 **Estudante de Técnico em Informática**  
+💻 **Desenvolvedor em formação**  
+🌐 HTML • CSS • JavaScript • Python  
+🗄️ SQL • MySQL • Banco de Dados  
+🚀 Sempre criando, aprendendo e evoluindo.
 
-💻 Desenvolvedor em formação
+---
 
-🌐 HTML | CSS | JavaScript | Python
+## 🧑‍💻 Sobre mim
 
-🗄️ SQL | MySQL | Banco de Dados
+Sou estudante de Técnico em Informática, apaixonado por tecnologia
+e desenvolvimento de projetos.
 
-🚀 Criando projetos e evoluindo constantemente
+Gosto de transformar ideias em projetos funcionais e estou sempre
+buscando aprender novas ferramentas e melhorar minhas habilidades.
 
-* 🌍 Estou baseado em Bahía em Salvador
+📫 **Contato:** [daivissooonn@gmail.com](mailto:daivissooonn@gmail.com)
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" altura="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" altura="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width=" 36" altura="36" /></a><a href="https://www.w3.org/TR/CSS/#css" alvo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" título="CSS3" largura="36" altura="36" /></a><a href="https://www.mysql.com/" alvo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" título="MySQL" width="36" altura="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a> </p>
-### Socials <p align="left"> <a href="https://www.github.com/Daivisson" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </foto> </a> <a href="https://www.linkedin.com/in/daivisson-oliveira-b85b562a9/" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <mídia fonte="(prefere-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" largura="32" altura="32" alt="LinkedIn" título="LinkedIn" /> </foto> </a> <a href="https://discord.com/users/daivissonnn" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </foto> </a></p>
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,php,linux" />
+</p>
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projetos
+
+🔹 **Projetos Web**  
+Sites e aplicações desenvolvidos com HTML, CSS e JavaScript.
+
+🔹 **Projetos em Python**  
+Aplicações criadas para praticar lógica e programação.
+
+🔹 **Banco de Dados**  
+Projetos utilizando SQL e MySQL.
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="SEU_LINK_DO_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="SEU_LINK_DO_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
