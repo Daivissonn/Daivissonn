@@ -1,84 +1,33 @@
-<div align="center">
+👋 Olá! Eu sou Daivisson Da Silva Oliveira
 
-# Olá, eu sou o Daivisson! 👋💻
+🎓 Estudante de Técnico em Informática <br>
+💻 Desenvolvedor em formação <br>
+🌐 HTML • CSS • JavaScript • Python <br>
+🗄️ SQL • MySQL • Banco de Dados <br>
+🚀 Sempre criando, aprendendo e evoluindo.
 
-### Estudante de Técnico em Informática | Futuro Dev Full Stack | Entusiasta de IA
+🧑‍💻 Sobre mim
 
-</div>
+Sou estudante de Técnico em Informática, apaixonado por tecnologia e desenvolvimento de projetos. Gosto de transformar ideias em projetos funcionais e estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades.
 
----
+📫 Contato: daivissooonn@gmail.com
 
-### 🚀 Sobre mim
+🛠️ Tecnologias & Ferramentas
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,php,linux" /> </p>
+📊 GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daivissonn&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daivissonn&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🚀 Projetos
 
-🎓 Cursando o Ensino Médio e o **Curso Técnico em Informática** <br>
-💡 Apaixonado por tecnologia, inovação e desenvolvimento de software <br>
-🌱 Aprendendo todos os dias com cursos, pesquisas e projetos práticos <br>
-🤖 Explorando o uso de **Inteligência Artificial** como apoio ao desenvolvimento
+🔹 Projetos Web Sites e aplicações desenvolvidos com HTML, CSS e JavaScript.
 
----
+🔹 Projetos em Python Aplicações criadas para praticar lógica e programação.
 
-### 🛠️ O que eu sei mexer
+🔹 Banco de Dados Projetos utilizando SQL e MySQL.
 
-**Desenvolvimento Web**
+🌎 Onde me encontrar
+<p align="left"> <a href="https://github.com/Daivissonn"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/daivisson-oliveir562a9/a-b85b"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="https://discord.com/users/daivissonnn"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a> </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Programação**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Produtividade / Escritório**
-
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-**IA & Ferramentas**
-
-![ChatGPT](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📚 Conhecimentos e habilidades técnicas
-
-| Área | Detalhes |
-|---|---|
-| 🖥️ Desenvolvimento Web | HTML5, CSS3, construção de páginas e layouts |
-| 🐍 Programação | Python (básico), lógica de programação |
-| 🤖 Inteligência Artificial | Engenharia de prompts, IA aplicada ao desenvolvimento |
-| 📁 Organização digital | Estruturação e organização de arquivos e projetos |
-| 🧩 Resolução de problemas | Depuração e busca de soluções técnicas |
-| 📊 Pacote Office | Word, Excel e PowerPoint |
-
----
-
-### 🔭 No que estou trabalhando agora
-- Construindo projetos práticos em **HTML, CSS e Python**
-- Aprofundando conhecimentos em **desenvolvimento Full Stack**
-- Estudando **automação** e novas aplicações de IA
-
-### 🌱 Áreas de interesse
-`Desenvolvimento Full Stack` · `Inteligência Artificial` · `Automação` · `Engenharia de Prompts` · `Boas práticas de programação`
-
----
-
-### 🤝 Perfil comportamental
-
-Proatividade · Facilidade de aprendizado · Boa comunicação · Trabalho em equipe · Organização e pontualidade · Responsabilidade · Adaptabilidade · Foco em resultados
-
-Tenho experiência prática em **atendimento ao cliente, vendas e organização de estoque**, o que me deu uma base sólida em comunicação, agilidade e trabalho em equipe — habilidades que levo comigo para a área de tecnologia.
-
----
-
-### 📫 Contato
-
-📧 **daivissooonn@gmail.com**
-
----
+⭐ Obrigado por visitar meu perfil!
 
 <div align="center">
 
