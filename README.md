@@ -16,8 +16,8 @@
 ## 🧑‍💻 Sobre mim
 
 Sou estudante de Técnico em Informática, apaixonado por tecnologia
-e desenvolvimento de projetos.
-Gosto de transformar ideias em projetos funcionais e estou sempre
+e desenvolvimento de projetos. <br>
+Gosto de transformar ideias em projetos funcionais e estou sempre 
 buscando aprender novas ferramentas e melhorar minhas habilidades.
 
 📫 **Contato:** [daivissooonn@gmail.com](mailto:daivissooonn@gmail.com)
