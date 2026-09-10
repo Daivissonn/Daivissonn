@@ -1,75 +1,73 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Daivisson%20Oliveira&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Inform%C3%A1tica%20%7C%20Dev%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=550&lines=Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica;Aprendendo+HTML%2C+CSS+%2C+JS+e+Python;Explorando+SQL%2C+MySQL+%2C+PHP+e+Linux;Sempre+criando+e+evoluindo+%F0%9F%9A%80" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Daivissonn&color=2575fc&style=for-the-badge&label=VISITAS+NO+PERFIL)
-![GitHub followers](https://img.shields.io/github/followers/Daivissonn?style=for-the-badge&color=6a11cb&labelColor=181717)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Daivisson%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
----
+<h3 align="center">💻 Desenvolvedor em formação | Apaixonado por tecnologia</h3>
 
-## 🧑‍💻 Sobre mim
+<p align="center">
+  <a href="mailto:dalvissoooohn@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-dalvissoooohn%40gmail.com-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Sou estudante de Técnico em Informática, apaixonado por tecnologia
-e desenvolvimento de projetos. <br>
-Gosto de transformar ideias em projetos funcionais e estou sempre 
-buscando aprender novas ferramentas e melhorar minhas habilidades.
-
-📫 **Contato:** [daivissooonn@gmail.com](mailto:daivissooonn@gmail.com)
-
----
+<br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,php,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,php,linux,git,github,vscode&theme=dark" />
 </p>
 
----
+<br>
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daivissonn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6a11cb&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daivissonn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Daivissonn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daivissonn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Daivissonn&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=6a11cb&currStreakLabel=a855f7" width="70%" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daivissonn&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
+<br>
 
 ## 🚀 Projetos
 
-🔹 **Projetos Web**
-Sites e aplicações desenvolvidos com HTML, CSS e JavaScript.
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      💎<br><b>Projetos Web</b><br>
+      <sub>Sites e aplicações desenvolvidos com HTML, CSS e JavaScript.</sub>
+    </td>
+    <td width="33%" align="center">
+      💎<br><b>Projetos em Python</b><br>
+      <sub>Aplicações criadas para praticar lógica e programação.</sub>
+    </td>
+    <td width="33%" align="center">
+      💎<br><b>Banco de Dados</b><br>
+      <sub>Projetos utilizando SQL e MySQL.</sub>
+    </td>
+  </tr>
+</table>
 
-🔹 **Projetos em Python**
-Aplicações criadas para praticar lógica e programação.
+<br>
 
-🔹 **Banco de Dados**
-Projetos utilizando SQL e MySQL.
-
----
-
-## 🌎 Onde me encontrar
+## 🌍 Onde me encontrar
 
 <p align="center">
   <a href="https://github.com/Daivissonn">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/daivisson-oliveir562a9/a-b85b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/daivissonnn">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
