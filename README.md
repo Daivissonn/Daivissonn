@@ -7,8 +7,8 @@
 <h3 align="center">💻 Desenvolvedor em formação | Apaixonado por tecnologia</h3>
 
 <p align="center">
-  <a href="mailto:dalvissooonn@gmail.com">
-    <img src="https://img.shields.io/badge/Contato-dalvissoooohn%40gmail.com-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:daivissooonn@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-daivissooonn%40gmail.com-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
